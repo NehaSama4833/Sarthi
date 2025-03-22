@@ -1,0 +1,14 @@
+<resources>
+    <string-array name="vehicle_types">
+        <item>Small Truck</item>
+        <item>Medium Truck</item>
+        <item>Large Truck</item>
+    </string-array>
+
+    <string-array name="helpers_count">
+        <item>0 Helpers</item>
+        <item>1 Helper</item>
+        <item>2 Helpers</item>
+        <item>3 Helpers</item>
+    </string-array>
+</resources>
