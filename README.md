@@ -8,7 +8,7 @@
 
 **Moving Made Easy** - An Android application designed to simplify booking and shifting services across India.
 
-[Features](#-features) • [Screenshots](#-screenshots) • [Installation](#-installation) • [Tech Stack](#-tech-stack) • [Usage](#-usage) • [Future Roadmap](#-future-roadmap) • [Contributing](#-contributing)
+[Features](#-features) •  [Installation](#-installation) • [Tech Stack](#-tech-stack) • [Usage](#-usage) • [Future Roadmap](#-future-roadmap) • [Contributing](#-contributing)
 
 </div>
 
@@ -52,9 +52,6 @@ The app connects users with professional shifting services across 30+ major Indi
 - **Responsive Design** - Works seamlessly on various screen sizes
 - **Loading Indicators** - Progress feedback for all operations
 
-## 📸 Screenshots
-
-[Add your screenshots here when available]
 
 ## 🛠️ Tech Stack
 
@@ -228,7 +225,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-**Your Name** - *Initial work* - [GitHub Profile](https://github.com/yourusername)
+**Neha Sharma** - *Initial work* - [GitHub Profile](https://github.com/NehaSama4833)
 
 ## 🙏 Acknowledgments
 
@@ -239,7 +236,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email sarthi.support@example.com or create an issue in the repository.
+For support, contact us on linkedIn : https://www.linkedin.com/in/neha-sharma-b08737316/ or create an issue in the repository.
 
 ## 📊 Project Status
 
